@@ -1,2 +1,2 @@
-# JayJayUp.github.id
+# JayJayUp.github.io
 个人站点
